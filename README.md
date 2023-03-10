@@ -1,2 +1,2 @@
-# cs50-final
+# project
 Harvard's CS50x final project
